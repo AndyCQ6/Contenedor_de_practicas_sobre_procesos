@@ -19,7 +19,7 @@ El entorno está diseñado para poner en práctica y experimentar con los siguie
 
 Si necesitas consultar las diapositivas de la clase para repasar la teoría, revisar la estructura del OS, o ver las soluciones a los errores comunes con Docker, puedes abrir el siguiente documento:
 
-👉 **[Ver presentación de la clase: Repaso CLI, GUI y Docker (PDF)](./CLI_GUI_y_Docker.pdf)**
+👉 **[Ver presentación de la clase: Repaso CLI, GUI y Docker (PDF)](./Repaso_CLI_GUI_y_Docker.pdf)**
 
 ---
 
